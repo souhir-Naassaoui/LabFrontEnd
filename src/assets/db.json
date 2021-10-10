@@ -1,0 +1,28 @@
+{
+    "members":[
+        {
+            "id" : "123456",
+            "cin" : "12365444",
+            "name" : "name1",
+            "createdDate" : "12/02//2020",
+            "cv" : "cv1.pdf",
+            "type" : "student"
+        },
+        {
+            "id" : "120006",
+            "cin" : "0123644",
+            "name" : "name2",
+            "createdDate" : "12/12//2020",
+            "cv" : "cv2.pdf",
+            "type" : "student"
+        },
+        {
+            "id" : "001156",
+            "cin" : "10005444",
+            "name" : "name3",
+            "createdDate" : "10/02//2020",
+            "cv" : "cv3.pdf",
+            "type" : "teacher"
+        }
+    ]
+}
